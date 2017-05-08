@@ -6,4 +6,5 @@
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/graphics8\.nytimes\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.youtube\.com\/embed\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/docs.google\.com\/.+/i);
 })();
